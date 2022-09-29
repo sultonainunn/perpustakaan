@@ -38,4 +38,4 @@ Alur :
   
   
   
-##Jika kurang paham silahkan bertanya
+## Jika kurang paham silahkan bertanya
